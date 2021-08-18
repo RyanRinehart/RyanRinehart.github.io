@@ -67,10 +67,10 @@ nav {
     display: flex;
     flex-wrap:wrap;
     flex-direction: row;
-    width:14rem;
+    width:35rem;
     border:.0625rem solid #333;
     background-color:#8FB0D0;
-    position:fixed;
+    position: fixed;
 }
 
 nav img {
