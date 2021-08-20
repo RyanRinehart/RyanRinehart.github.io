@@ -73,12 +73,29 @@ h3 {
     font-size: 2rem;
     font-weight: normal;
     text-shadow: none;
-    
+    color: black;
+
 }
 
-h4 {}
+h4 {
+    font-size: 1.5rem;
+    letter-spacing: .25rem;
+    padding-bottom: 1.125rem;
+    background-color: #333;
+    font-weight: normal;
+}
 
-h5 {}
+h5 {
+    font-size: 1rem;
+    margin-top: .25rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    background-color: #333;
+    color: #fff;
+    font-weight: normal;
+}
 
 
 /* Section & Paragraph */
