@@ -81,7 +81,8 @@ h3 {
     text-shadow: none;
     color: black;
     text-align: center;
-    
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-transform: uppercase;
 }
 
 h4 {
